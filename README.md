@@ -15,6 +15,48 @@ Ainda assim, o projeto teve um papel importante no desenvolvimento das minhas ba
 - comunicação de insights de negócio;
 - pensamento analítico orientado por dados.
 
+---
+
+## 🔎 Principais Insights
+
+A análise mostrou uma diferença muito clara entre o comportamento de assinantes e clientes casuais.
+
+Os assinantes utilizavam as bicicletas principalmente como meio de transporte no dia a dia:
+- maior concentração de viagens durante dias úteis;
+- duração média menor das viagens;
+- uso intenso de estações próximas a centros urbanos e terminais ferroviários;
+- comportamento mais repetitivo e ligado à rotina de trabalho.
+
+Já os clientes casuais apresentavam um perfil completamente diferente:
+- maior concentração de viagens aos finais de semana;
+- duração média muito superior;
+- uso mais frequente em regiões turísticas, parques e áreas próximas ao lago;
+- comportamento mais associado a lazer, turismo e atividade recreativa.
+
+A principal diferença identificada foi o propósito de uso:
+- assinantes utilizavam o serviço como solução de mobilidade urbana;
+- clientes casuais utilizavam as bicicletas como experiência de lazer.
+
+Os próprios padrões geográficos ajudavam a explicar esse comportamento. Enquanto os assinantes se concentravam próximos a estações ferroviárias e áreas comerciais, os clientes casuais apresentavam forte presença em regiões turísticas e de entretenimento, especialmente próximas ao Navy Pier e à orla de Chicago.
+
+---
+
+## 💡 Sugestões de Ações (propostas na época)
+
+Com base nos resultados, as sugestões apresentadas no estudo foram:
+
+1. Campanhas de marketing destacando praticidade, economia de tempo e benefícios à saúde para incentivar o uso recorrente das bicicletas.
+
+2. Ativações e campanhas promocionais em áreas com grande presença de clientes casuais, como parques, regiões turísticas e áreas próximas ao lago.
+
+3. Criação de planos de assinatura mais voltados ao público de lazer, incluindo:
+   - benefícios para uso em áreas recreativas;
+   - descontos para períodos mais longos;
+   - planos familiares;
+   - benefícios sazonais e incentivos para finais de semana.
+
+---
+
 Os dashboards abaixo representam as diferentes visões construídas durante o estudo:
 
 ### 📌 Visão Geral
